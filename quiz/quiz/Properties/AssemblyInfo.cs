@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Bu proje COM'un kullanımına sunulursa, aşağıdaki GUID tür kitaplığının kimliği içindir
-[assembly: Guid("48274147-edbb-4dca-95a6-e9c71ea9f15e")]
+[assembly: Guid("bdae34cc-f82b-47f7-9b82-a86b5139e6d5")]
 
 // Bir derlemenin sürüm bilgileri aşağıdaki dört değerden oluşur:
 //
